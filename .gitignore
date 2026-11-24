@@ -1,0 +1,18 @@
+# Artefactos de compilación
+/build/
+*.o
+*.a
+*.iso
+*.bin
+*.elf
+*.img
+/data/linux-runtime.json
+/data/AppImages/
+/build-test/
+__pycache__/
+
+# Respaldo / editor
+*~
+*.swp
+.DS_Store
+Thumbs.db

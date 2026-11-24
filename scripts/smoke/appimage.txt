@@ -1,0 +1,11 @@
+abs 357 726
+click
+sleep 3
+abs 179 200
+click
+sleep 2
+shot
+abs 658 188
+dclick
+sleep 3
+shot
